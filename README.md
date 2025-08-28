@@ -1,2 +1,9 @@
-# Data-Analysis-Dashboard
-I developed an interactive Power BI dashboard to analyze Blinkit’s sales performance and customer insights. The dashboard provides a detailed view of total sales, outlet performance, product categories, and customer ratings, helping business stakeholders make data-driven decisions.
+# Blinkit Sales Analysis – Power BI Dashboard 📊
+
+## 📌 Project Overview  
+This project provides an **interactive Power BI Dashboard** for analyzing **Blinkit sales data**.  
+It highlights **sales performance, outlet analysis, item categories, and customer ratings** with dynamic filters.
+
+---
+## 📊 Dashboard used  
+-<a href="https://github.com/Akhilvarma377/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
