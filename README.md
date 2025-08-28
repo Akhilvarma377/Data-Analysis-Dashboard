@@ -1,3 +1,4 @@
+<img width="1419" height="802" alt="Screenshot 2025-08-28 210852" src="https://github.com/user-attachments/assets/a91bbb44-7b7d-40a9-8d93-6182504e05c9" />
 # Blinkit Sales Analysis – Power BI Dashboard 📊
 
 ## 📌 Project Overview  
