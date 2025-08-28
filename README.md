@@ -11,7 +11,7 @@ It highlights **sales performance, outlet analysis, item categories, and custome
 
 ---
 
-**##📊 This dashboard gives key insights into Blinkit’s performance:**
+## 🔍 Key Insights
  ✔️Outlet analysis by Size (Small/Medium/High) and Location (Tier 1–3)
  ✔️ Total Sales, Average Sales & Ratings
  ✔️ Sales by Outlet Type, Size, and Location
