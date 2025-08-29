@@ -22,7 +22,7 @@ It highlights **sales performance, outlet analysis, item categories, and custome
  
 ---
 
-**-Dashboard Interactions**
+# Dashboard Interactions
 <a href="https://github.com/Akhilvarma377/Data-Analysis-Dashboard/blob/main/Screenshot%202025-08-28%20210852.png">view Dashboard</a>
 
 ---
@@ -49,14 +49,15 @@ It highlights **sales performance, outlet analysis, item categories, and custome
 
 ---
 
-**💡 Why it’s useful:**
+
+# 💡 Why it’s Useful
  🔹Helps business users track performance at a glance
  🔹Identifies high-performing outlets & product categories
  🔹 Simplifies complex sales data into meaningful insights
  
 ---
 
-**✅ What I learned:**
+# ✅ What I Learned
  🔹 Data Cleaning & Transformation
  🔹 Creating KPIs and DAX measures
  🔹 Building interactive dashboards
