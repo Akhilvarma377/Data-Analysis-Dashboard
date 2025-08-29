@@ -48,30 +48,37 @@ It highlights **sales performance, outlet analysis, item categories, and custome
 ---
 
 ## 🚀 How to Use  
-1. Download the `.pbix` file from this repository.  
-2. Open it in **Power BI Desktop**.  
-3. Connect to your updated dataset (if required).  
+ 1.Download the `.pbix` file from this repository.
+  
+ 2.Open it in **Power BI Desktop**.
+ 
+ 3.Connect to your updated dataset (if required).  
 
 ---
 
 
 # 💡 Why it’s Useful
  🔹Helps business users track performance at a glance
+ 
  🔹Identifies high-performing outlets & product categories
+ 
  🔹 Simplifies complex sales data into meaningful insights
  
 ---
 
 # ✅ What I Learned
  🔹 Data Cleaning & Transformation
+ 
  🔹 Creating KPIs and DAX measures
+ 
  🔹 Building interactive dashboards
+ 
  🔹 Turning raw data into business insights
 
  ---
 
  ## 🔗 Connect with Me  
-- **LinkedIn:**<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
+- **LinkedIn**<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
 -  **Email:**(siddiakhilvarma@gmail.com)
 
   ---
