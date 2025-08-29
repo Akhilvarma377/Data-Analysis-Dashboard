@@ -78,8 +78,8 @@ It highlights **sales performance, outlet analysis, item categories, and custome
  ---
 
  ## 🔗 Connect with Me  
-- **LinkedIn**<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
--  **Email:**(siddiakhilvarma@gmail.com)
+- **LinkedIn** :<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
+-  **Email**   :(siddiakhilvarma@gmail.com)
 
   ---
 
