@@ -14,10 +14,15 @@ It highlights **sales performance, outlet analysis, item categories, and custome
 
 ## 🔍 Key Insights
  ✔️Outlet analysis by Size (Small/Medium/High) and Location (Tier 1–3)
+ 
  ✔️ Total Sales, Average Sales & Ratings
+ 
  ✔️ Sales by Outlet Type, Size, and Location
+ 
  ✔️ Product Category performance (Snacks, Fruits, Frozen, Household, etc.)
+ 
  ✔️ Year-wise trends of outlets (2010–2022)
+ 
  ✔️ Interactive filters for easy exploration
  
 ---
